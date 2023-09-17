@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm K7vinilstorage</h1>
 <h3 align="center">A passionate computer engineering student at UTFPR-CP</h3>
 
-- 🔭 I’m currently working on [Trabalho Final](https://github.com/k7vinilstorage/Trabalho-Final)
+- 🔭 I’m currently working on [Torezan-site](https://github.com/k7vinilstorage/Torezan-site)
 
 - 🌱 I’m currently learning **C++, JavaScript, CSS, HTML**
 
