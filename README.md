@@ -1,20 +1,30 @@
-<h1 align="center">Hi 👋, I'm K7vinilstorage</h1>
-<h3 align="center">A passionate computer engineering student at UTFPR-CP</h3>
+<h1 align="center">João Torezan</h1>
+<p align="center">Computer Engineering student · UTFPR-CP · Brazil</p>
 
-- 🔭 I’m currently working on [Torezan-site](https://github.com/k7vinilstorage/Torezan-site)
-
-- 🌱 I’m currently learning **C++, JavaScript, CSS, HTML**
-
-- ⚡ Fun fact **I love playing guitar**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jabtorezan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jabtorezan" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/jabtorezan">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:torezan@alunos.utfpr.edu.br">torezan@alunos.utfpr.edu.br</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=k7vinilstorage&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="k7vinilstorage" /></p>
+## About
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=k7vinilstorage&show_icons=true&theme=gruvbox&locale=en" alt="k7vinilstorage" /></p>
+I'm a computer engineering student with a focus on systems and embedded programming. I like understanding how software works at every level — from hardware interfaces to the application layer. Currently building my foundations in C, C++, and lower-level development while also exploring web technologies on the side.
+
+When I'm not coding, I play guitar.
+
+## What I'm building
+
+- [**Torezan-site**](https://github.com/k7vinilstorage/Torezan-site) — personal website built with HTML, CSS and JavaScript
+
+## Tech
+
+**Languages:** C · C++ · Python · JavaScript · HTML/CSS  
+**Tools:** Git · Linux
+
+## Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=k7vinilstorage&layout=compact&theme=default&hide_border=true" alt="Top languages" />
+</p>
