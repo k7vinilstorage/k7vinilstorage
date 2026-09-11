@@ -1,30 +1,24 @@
-<h1 align="center">João Torezan</h1>
-<p align="center">Computer Engineering student · UTFPR-CP · Brazil</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/jabtorezan">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:torezan@alunos.utfpr.edu.br">torezan@alunos.utfpr.edu.br</a>
-</p>
-
----
-
-## About
-
+# 💫 About Me:
 I'm a computer engineering student with a focus on systems and embedded programming. I like understanding how software works at every level — from hardware interfaces to the application layer. Currently building my foundations in C, C++, and lower-level development while also exploring web technologies on the side.
 
-When I'm not coding, I play guitar.
 
-## What I'm building
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jatorezan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto: torezan@alunos.utfpr.edu.br) 
 
-- [**Torezan-site**](https://github.com/k7vinilstorage/Torezan-site) — personal website built with HTML, CSS and JavaScript
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white) ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white) ![PlatformIO](https://img.shields.io/badge/PlatformIO-%23222.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=k7vinilstorage&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=k7vinilstorage&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=k7vinilstorage&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## Tech
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=k7vinilstorage&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-**Languages:** C · C++ · Python · JavaScript · HTML/CSS  
-**Tools:** Git · Linux
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=k7vinilstorage&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## Stats
+---
+[![](https://komarev.com/ghpvc/?username=k7vinilstorage&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=k7vinilstorage&layout=compact&theme=default&hide_border=true" alt="Top languages" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
