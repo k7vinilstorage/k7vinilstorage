@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I'm a computer engineering student with a focus on systems and embedded programming. I like understanding how software works at every level — from hardware interfaces to the application layer. Currently building my foundations in C, C++, and lower-level development while also exploring web technologies on the side.
 
 
